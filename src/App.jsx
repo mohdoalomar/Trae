@@ -103,7 +103,7 @@ function App() {
         </div>
       )}
       <div className="text-sm sm:text-base text-gray-400 text-center mt-8">
-        This is a trial project created with Trae.ai .
+        This is a trial project created with Trae.ai , form coding to the CI/CD pipeline.
       </div>
     </div>
   )
