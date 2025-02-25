@@ -102,6 +102,9 @@ function App() {
           Congratulations! You've won in {moves} moves!
         </div>
       )}
+      <div className="text-sm sm:text-base text-gray-400 text-center mt-8">
+        This is a trial project created with Trae.ai
+      </div>
     </div>
   )
 }
